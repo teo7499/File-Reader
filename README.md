@@ -1,5 +1,5 @@
 # File-Reader
-A small project to test out reading file directories and some simple mongoDB operations using Mongo Scala Driver.</br></br>
+A small project to test out reading file directories and some simple mongoDB operations using Mongo Scala Driver. I didn't add the any user entry for this script but you could easily add it. The only issue that could happen might be read-protected files/directories./br></br>
 You can run this programme if you have SBT to compile and build.
 
 <b>Interesting bits</b></br>
